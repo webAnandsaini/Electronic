@@ -98,8 +98,8 @@ nav ul li a::after{
 
     .btn{
         margin-top:4px;
-        width:36px;
-        height:27px;
+        width:40px;
+        height:30px;
         border:2px solid rgb(185, 184, 184);
         display:none;
         cursor: pointer;
@@ -139,6 +139,7 @@ section .rotate{
 section .left{
     width:60%;
     padding-left:0.4rem;
+    margin-top:30px;
 
 }
 
@@ -158,6 +159,8 @@ section .left{
 
 section .right{
     width:30%;
+    margin-top:30px;
+
 }
 
 .right img{
@@ -1005,7 +1008,7 @@ footer .icon a:hover{
     }
 
     section .right{
-        padding-top:30px;
+        padding-top:50px;
     }
 
     section .right img{
@@ -1078,6 +1081,11 @@ footer .icon a:hover{
     *{
         font-size:20px;
     }
+
+    .logo h1{
+        font-weight:900;
+        font-size:1.3rem;
+    }
     
 
     .section2 .sec2 img{
@@ -1113,6 +1121,16 @@ footer .icon a:hover{
         width:100%;
         padding-left:30%;
     }
+
+    .left1 h1{
+        font-size:4.5rem;
+        background-image:none;
+        color:rgb(63, 63, 215);
+    }
+
+   
+
+
 
 }
 
