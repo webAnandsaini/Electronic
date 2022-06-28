@@ -369,7 +369,7 @@ mark{
     font-size:4.5rem;
     background-image:url("../img/38.svg");
     background-size: cover;
-    background-clip:text;
+    -webkit-background-clip:text;
     color:transparent;
 }
 
@@ -1124,8 +1124,6 @@ footer .icon a:hover{
 
     .left1 h1{
         font-size:4.5rem;
-        background-image:none;
-        color:rgb(63, 63, 215);
     }
 
    
